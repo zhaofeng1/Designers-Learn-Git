@@ -307,10 +307,13 @@ DoneHome        student
 Wclouds         宅男
 zzz             产品经理
 kjdh            抠脚大汉
+<<<<<<< HEAD
 beyong		程序员
 <<<<<<< HEAD
 Justin          student
 terrel          solution marketing
+=======
+>>>>>>> parent of e25632e... Update 花名册.txt
 =======
 >>>>>>> parent of e25632e... Update 花名册.txt
 =======
